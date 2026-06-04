@@ -4,7 +4,7 @@ A compassionate AI chatbot fine-tuned on Facebook AI's EmpatheticDialogues datas
 
 ## 📋 Overview
 
-This project fine-tunes DistilGPT2 (or GPT-Neo/Mistral 7B) using Hugging Face's Trainer API to create an empathetic conversational agent. The model is trained on real human dialogues to recognize emotional contexts and respond with gentle, supportive language.
+This project fine-tunes DistilGPT2 using Hugging Face's Trainer API to create an empathetic conversational agent. The model is trained on real human dialogues to recognize emotional contexts and respond with gentle, supportive language.
 
 ## ✨ Features
 
@@ -18,7 +18,7 @@ This project fine-tunes DistilGPT2 (or GPT-Neo/Mistral 7B) using Hugging Face's 
 
 ### Prerequisites
 
-- Google Colab (recommended) or local GPU environment
+- Google Colab 
 - Python 3.8+
 - CUDA-capable GPU (optional but recommended)
 
