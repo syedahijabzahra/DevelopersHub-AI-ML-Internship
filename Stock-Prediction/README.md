@@ -32,3 +32,7 @@ Use historical stock data to predict the closing price using regression models.
 - Volume has the least predictive power
 - Time series data must not be shuffled during train/test split
 - Short-term stock prediction is sensitive to market volatility
+
+## 🙋 Author
+
+Built as part of an AI/ML internship project at **DevelopersHub Coorporation**.
