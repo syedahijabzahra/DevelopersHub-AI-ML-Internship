@@ -1,4 +1,4 @@
-# Task 1: Exploring and Visualizing the Iris Dataset
+# Exploring and Visualizing the Iris Dataset
 
 ## Objective
 Load, inspect, and visualize the Iris dataset to understand feature distributions, relationships, and outliers.
@@ -31,3 +31,7 @@ No model — this task focuses on EDA and visualization only.
 - Versicolor and Virginica overlap slightly
 - Petal length and petal width are highly correlated (r = 0.96)
 - Sepal width has weak correlation with all other features
+
+## 🙋 Author
+
+Built as part of an AI/ML internship project at **DevelopersHub Coorporation**.
