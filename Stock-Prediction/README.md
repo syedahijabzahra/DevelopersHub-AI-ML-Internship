@@ -1,4 +1,4 @@
-# Task 2: Stock Price Prediction
+#  Stock Price Prediction
 
 ## Objective
 Use historical stock data to predict the closing price using regression models.
